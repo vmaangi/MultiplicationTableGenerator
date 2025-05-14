@@ -1,1 +1,1 @@
-# MultiplicationTableGeneratorra
+# MultiplicationTableGenerator
